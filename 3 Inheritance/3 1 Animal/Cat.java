@@ -7,7 +7,7 @@ public class Cat extends Animal{
         legs = 4;
     }
     public String sound(){
-        return "Gukguk!";
+        return "Meow!";
     }
     public String getSex(){
         return sex;
