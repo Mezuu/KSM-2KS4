@@ -6,7 +6,7 @@ public class Register{
 
     private Register(){
         names = new ArrayList<>();
-    };
+    }
     public void register(String name){
         names.add(name);
     }
